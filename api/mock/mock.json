@@ -1,0 +1,19 @@
+[
+  {
+    "account": "tang",
+    "name": "",
+    "roleName": "系统管理员",
+    "roleId": "system",
+    "permission": []
+  },
+  {
+    "roleName": "管理员",
+    "roleId": "admin",
+    "permission": []
+  },
+  {
+    "roleName": "普通用户",
+    "roleId": "common",
+    "permission": []
+  }
+]

@@ -1,0 +1,30 @@
+.menu-item {
+  .title-wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    &:hover {
+      svg {
+        display: inline-block;
+        color: #1890ff;
+      }
+    }
+
+    svg {
+      display: none;
+      width: 24px;
+      height: 24px;
+      font-size: 24px;
+    }
+  }
+
+  .ant-menu-submenu-arrow {
+    right: 0;
+    left: 6px;
+  }
+
+  .ant-menu-submenu-title {
+    padding-right: 16px;
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "children": [],
+    "_id": "60cf15b404197e8d39939595",
+    "title": "首页",
+    "nodeId": "DASHBOARD",
+    "icon": "",
+    "parentId": "",
+    "path": "/base/dashboard",
+    "level": 1
+  },
+  {
+    "children": [],
+    "_id": "60cf15b404197e8d39939596",
+    "title": "图表",
+    "nodeId": "CHARTS",
+    "icon": "",
+    "parentId": "",
+    "path": "/base/charts",
+    "level": 1
+  },
+  {
+    "children": [],
+    "_id": "60cf15b404197e8d39939597",
+    "title": "嵌套路由",
+    "nodeId": "NESTED_ROUTE",
+    "icon": "",
+    "parentId": "",
+    "path": "/base/nestedRoutes",
+    "level": 1
+  },
+  {
+    "children": [],
+    "_id": "60d2158d3af6d004a0a66782",
+    "title": "系统设置",
+    "nodeId": "SYSTEM_SETTING",
+    "icon": "",
+    "parentId": "",
+    "path": "/base/system",
+    "level": 1
+  },
+  {
+    "children": [],
+    "_id": "60cf162504197e8d39939598",
+    "title": "柱形图",
+    "nodeId": "CHARTS_BAR",
+    "icon": "",
+    "parentId": "CHARTS",
+    "path": "/base/charts/bar",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60cf162504197e8d39939599",
+    "title": "折线图",
+    "nodeId": "CHARTS_LINE",
+    "icon": "",
+    "parentId": "CHARTS",
+    "path": "/base/charts/line",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60cf162504197e8d3993959a",
+    "title": "饼形图",
+    "nodeId": "CHARTS_PIE",
+    "icon": "",
+    "parentId": "CHARTS",
+    "path": "/base/charts/pie",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60cf162504197e8d3993959b",
+    "title": "嵌套一级路由",
+    "nodeId": "NESTED_ROUTE_1",
+    "icon": "",
+    "parentId": "NESTED_ROUTE",
+    "path": "/base/nestedRoutes/route1",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60cf162504197e8d3993959c",
+    "title": "菜单配置",
+    "nodeId": "MENU_SETTING",
+    "icon": "",
+    "parentId": "SYSTEM_SETTING",
+    "path": "/base/system/menu",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60d216463af6d004a0a66783",
+    "title": "角色设置",
+    "nodeId": "ROLE_SETTING",
+    "icon": "",
+    "parentId": "SYSTEM_SETTING",
+    "path": "/base/system/role",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60d8a55c3af6d004a0a66784",
+    "title": "用户设置",
+    "nodeId": "USER_SETTING",
+    "icon": "",
+    "parentId": "SYSTEM_SETTING",
+    "path": "/base/system/user",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60d8a7b43af6d004a0a66785",
+    "title": "嵌套二级路由",
+    "nodeId": "NESTED_ROUTE_2",
+    "icon": "",
+    "parentId": "NESTED_ROUTE",
+    "path": "/base/nestedRoutes/route2",
+    "level": 2
+  },
+  {
+    "children": [],
+    "_id": "60cf163d04197e8d3993959d",
+    "title": "二级路由一",
+    "nodeId": "NESTED_ROUTE_2_1",
+    "icon": "",
+    "parentId": "NESTED_ROUTE_2",
+    "path": "/base/nestedRoutes/route2/route1",
+    "level": 3
+  },
+  {
+    "children": [],
+    "_id": "60cf163d04197e8d3993959e",
+    "title": "二级路由二",
+    "nodeId": "NESTED_ROUTE_2_2",
+    "icon": "",
+    "parentId": "NESTED_ROUTE_2",
+    "path": "/base/nestedRoutes/route2/route2",
+    "level": 3
+  }
+]
